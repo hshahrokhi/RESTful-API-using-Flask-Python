@@ -1,0 +1,6 @@
+Urls:
+    BaseUrl: "http://127.0.0.1:5000/"
+Database:
+    DatabaseName: 'customers'
+    ServerName: 'HMD'
+    GetClientInfoBaseQuery: 'select * from  [dbo].[CustomerInfo] where customer_id='
